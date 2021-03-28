@@ -35,7 +35,7 @@ FrameInfo:
 
 | Offset | Length |  Type  |       Description       |
 |:------:|:------:|:------:|:-----------------------:|
-|    0   |    4   |  uint  |   Offset of frame data  |
+|    0   |    4   |  uint  |   EndOffset of frame data  |
 |    4   |    2   | ushort |     Width of a frame    |
 |    6   |    2   | ushort |    Height of a frame    |
 |    8   |    2   | ushort | Image Format (always 3) |
