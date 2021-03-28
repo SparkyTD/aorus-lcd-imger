@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imger", "imger\imger.csproj", "{BA02AF65-5489-4AC6-8868-DDB7B0440171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imger.extract", "imger.extract\imger.extract.csproj", "{33AC444E-E42E-493A-9448-7F44E3237E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA02AF65-5489-4AC6-8868-DDB7B0440171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA02AF65-5489-4AC6-8868-DDB7B0440171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA02AF65-5489-4AC6-8868-DDB7B0440171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA02AF65-5489-4AC6-8868-DDB7B0440171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AC444E-E42E-493A-9448-7F44E3237E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AC444E-E42E-493A-9448-7F44E3237E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AC444E-E42E-493A-9448-7F44E3237E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AC444E-E42E-493A-9448-7F44E3237E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
